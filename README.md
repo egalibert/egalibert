@@ -1,10 +1,22 @@
 ### Hi there 👋 
 
+I'm Elliot, I just finished my studies at @HiveHelsinki(2023). I started my developper career in 2020 and have never looked back since.
+I enjoy solving problems and love learning something new everyday!
+
+- 🌱 I’m currently learning Python through Helsinki Univercitys MOOC program.
+- 🔭 I’m currently working on finding myself an internship.
+
+Programming tools/languages I know:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" />      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height= "55" />
+          
+          
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egalibert&layout=compact&theme=tokyonight)     
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />
+ Current Streak:     
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egalibert)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egalibert&show_icons=true&theme=tokyonight)
 
           
 <!--
