@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 I'm Elliot, I just finished my studies at @HiveHelsinki(2023). I started my developper career in 2020 and have never looked back since.
-I enjoy solving problems and love learning something new everyday!
+I enjoy solving problems and love learning something new everyday! A lot of my commits have gone into the schools Vogsphear but projects are here.
 
 - 🌱 I’m currently learning Python through Helsinki Univercitys MOOC program.
 - 🔭 I’m currently working on finding myself an internship.
@@ -14,9 +14,10 @@ Programming tools/languages I know:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egalibert&layout=compact&theme=tokyonight)     
 
 
- Current Streak:     
+ Stats and Streak:
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egalibert&show_icons=true&theme=tokyonight)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=egalibert&theme=dark)](https://git.io/streak-stats)
 
           
 <!--
