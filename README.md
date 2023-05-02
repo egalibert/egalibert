@@ -14,9 +14,12 @@ Programming tools/languages I know:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egalibert&layout=compact&theme=tokyonight)     
 
 
- Stats and Streak:
+ Stats:
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egalibert&show_icons=true&theme=tokyonight)
+ 
+ Streak:
+ 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=egalibert&theme=dark)](https://git.io/streak-stats)
 
           
