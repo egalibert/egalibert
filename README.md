@@ -1,9 +1,9 @@
 ### Hi there 👋 
 
 I'm Elliot, I just finished my studies at @HiveHelsinki(2023). I started my developper career in 2020 and have never looked back since.
-I enjoy solving problems and love learning something new everyday! A lot of my commits have gone into the schools Vogsphear but projects are here.
+I enjoy solving problems and love learning something new everyday! A lot of my commits have gone into the schools Vogsphear but projects are here. I also recently passed and finished Helsinki Universitys Python programming basic and advanced parts.
 
-- 🌱 I’m currently learning Python through Helsinki Univercitys MOOC program.
+- 🌱 I’m currently learning web development through Helsinki University Full Stack Open program.
 - 🔭 I’m currently working on finding myself an internship.
 
 Programming tools/languages I know:
