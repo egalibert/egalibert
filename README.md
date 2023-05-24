@@ -13,20 +13,19 @@ Programming tools/languages I know:
 Programming tools/languages im learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" />
-
-
-          
-          
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egalibert&layout=compact&theme=tokyonight)     
-
-
+ 
+ Most used:
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egalibert&theme=tokyonight&layout=compact)
+ 
  Stats:
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egalibert&show_icons=true&theme=tokyonight)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egalibert&theme=tokyonight)
+
  
  Streak:
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=egalibert&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=egalibert&theme=tokyonight)](https://git.io/streak-stats)
 
           
 <!--
