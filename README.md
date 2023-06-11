@@ -18,11 +18,6 @@ Programming tools/languages im learning:
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egalibert&theme=tokyonight&layout=compact)
  
- Stats:
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egalibert&theme=tokyonight)
-
- 
  Streak:
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=egalibert&theme=tokyonight)](https://git.io/streak-stats)
@@ -32,6 +27,10 @@ Programming tools/languages im learning:
 **egalibert/egalibert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+ Stats:
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egalibert&theme=tokyonight)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
