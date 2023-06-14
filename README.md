@@ -3,7 +3,7 @@
 I'm Elliot, I just finished my studies at @HiveHelsinki(2023). I started my developer career in 2020 and have never looked back since.
 I enjoy solving problems and love learning something new everyday! A lot of my commits have gone into the schools Vogsphear but projects are here. I also recently passed and finished Helsinki Universitys Python programming basic (5/5) and advanced parts (4/5).
 
-- 🌱 I’m currently learning web development through Helsinki University Full Stack Open program.
+- 🌱 I’m currently learning web development through Helsinki University Full Stack Open program and Java Programming.
 - 🔭 I’m currently working on finding myself an internship.
 
 Programming tools/languages I know:
@@ -13,6 +13,8 @@ Programming tools/languages I know:
 Programming tools/languages im learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" />
+
  
  Most used:
  
