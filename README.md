@@ -3,7 +3,7 @@
 I'm Elliot, I have finished my core studies at @HiveHelsinki(2023) and I'm looking for an internship / junior position. I started my developer career in 2020 and have never looked back since.
 I enjoy solving problems and love learning something new everyday! A lot of my commits have gone into the schools Vogosphear but projects are here. I also recently passed and finished Helsinki Universitys Python programming basic (5/5) and advanced parts (4/5). Also Java Programming I (5/5)
 
-- 🌱 I’m currently learning web development through Helsinki University Full Stack Open program, and SQL and Python through Codefinity.
+- 🌱 I’m currently learning web development through Helsinki University Full Stack Open program, and SQL and Python through Codefinity. Also Python and automation testing from Udemy courses.
 - 🔭 I’m currently working on finding myself an internship.
 
 Programming tools/languages I know:
