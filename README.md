@@ -23,10 +23,6 @@ Programming tools/languages im learning:
  Most used:
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egalibert&theme=tokyonight&layout=compact)
- 
- Streak:
- 
- [![GitHub Streak](https://streak-stats.demolab.com?user=egalibert&theme=tokyonight)](https://git.io/streak-stats)
 
           
 <!--
@@ -34,6 +30,10 @@ Programming tools/languages im learning:
 
 Here are some ideas to get you started:
 
+ Streak:
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=egalibert&theme=tokyonight)](https://git.io/streak-stats)
+ 
  Stats:
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egalibert&theme=tokyonight)
