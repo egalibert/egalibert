@@ -18,14 +18,17 @@ Programming tools/languages im learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" />
 
-
+ Streak:
  
+ [![GitHub Streak](https://streak-stats.demolab.com?user=egalibert&theme=tokyonight)](https://git.io/streak-stats)
+ 
+          
+<!--
+
  Most used:
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egalibert&theme=tokyonight&layout=compact)
-
-          
-<!--
+ 
 **egalibert/egalibert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
