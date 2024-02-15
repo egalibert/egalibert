@@ -16,7 +16,10 @@ Programming tools/languages I know:
 
 Programming tools/languages im learning:
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="55" height="55" /> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="55" height="55" /> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="55" height="55" /> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="55" height="55" /> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="55" height="55" /> 
+
  Streak:
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=egalibert&theme=tokyonight)](https://git.io/streak-stats)
