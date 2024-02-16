@@ -22,11 +22,13 @@ Programming tools/languages im learning:
  Streak:
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=egalibert&theme=tokyonight)](https://git.io/streak-stats)
- 
+
+Most used:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egalibert&theme=tokyonight)
+
           
 <!--
-
- Most used:
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egalibert&theme=tokyonight&layout=compact)
  
