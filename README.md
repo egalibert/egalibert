@@ -3,6 +3,7 @@
 I'm Elliot, I have finished my core studies at @HiveHelsinki(2023). I started my developer career in 2020 and have never looked back since.
 I enjoy solving problems and love learning something new everyday! A lot of my commits have gone into the schools Vogosphear but projects are here. I also recently passed and finished Helsinki Universitys Python programming basic (5/5) and advanced parts (4/5). Also Java Programming I (5/5). I recently finished Udemys 100 days of code project aswell as SQL basics and advanced.
 I found myself an internship at Skillio where I completed a 12 week intensive data engineer training.
+After finishing my 12 week intensive training I worked for 5 weeks at Ruokaboksi as Junior Data Engineer.
 
 - 🔭 I’m currently working for Skillio.
 
